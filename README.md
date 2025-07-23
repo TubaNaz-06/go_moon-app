@@ -1,16 +1,31 @@
-# go_moon
+# 🌕 Go Moon App 🚀
 
-A new Flutter project.
+**Go Moon App** is a space-themed Flutter application that allows users to book fictional rides to the Moon from stations like the James Webb Station. With a sleek and immersive UI, this project showcases modern mobile design combined with the excitement of interstellar travel.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🌍 Select your departure station
+- 🧑‍🚀 Choose number of astronauts (passengers)
+- 🛫 Pick travel class (Economy, Business, First Class)
+- 📲 One-tap ride booking experience
+- 🖼️ Stunning astronaut and moon visuals
+- ⚙️ Built using Flutter & Dart
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![App UI](screenshot.jpg) <!-- Replace with actual path to your screenshot -->
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧰 Tech Stack
+
+- Flutter
+- Dart
+- Material Design
+- Visual Studio Code / Android Studio
+
+## 📦 How to Run
+
+```bash
+git clone https://github.com/yourusername/go-moon-app.git
+cd go-moon-app
+flutter pub get
+flutter run
